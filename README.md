@@ -1,5 +1,5 @@
 # Web-Programming-project
-                                 We had done Hotel booking Website as our Web Programming Project.
+                                   Hotel booking Website as our Web Programming Project.
 
 ![image](https://user-images.githubusercontent.com/92213083/205248533-edf4b220-077d-49c2-a49b-39c6be8853a2.png)
 
